@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Content from './content';\nimport Auth from '../../layouts/Auth';\n\nvar index = function index(props) {\n  return __jsx(Auth, null, __jsx(Content, null));\n};\n\nexport default index;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Admin from '../../layouts/Admin';\nimport Content from './content';\n\nconst index = () => {\n  return __jsx(React.Fragment, null, __jsx(Admin, null, __jsx(Content, null)));\n};\n\nexport default index;","map":null,"metadata":{},"sourceType":"module"}
