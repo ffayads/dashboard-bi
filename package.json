@@ -10,7 +10,7 @@
 	"dependencies": {
 		"add": "^2.0.6",
 		"axios": "^0.19.2",
-		"chart.js": "^2.9.3",
+		"chart.js": "^2.9.4",
 		"google-maps-react": "^2.0.2",
 		"next": "9.3.0",
 		"node-sass": "^4.13.1",
